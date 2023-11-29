@@ -1,0 +1,53 @@
+1. Vorbereitungsphase:
+
+a. Anforderungsanalyse: Überprüfen Sie die bereitgestellten Spezifikationen und klären Sie Unklarheiten.
+b. Werkzeuge und Technologien festlegen: Auswahl der Entwicklungsumgebung, Datenbanktools, Testwerkzeuge usw.
+c. Git-Repository einrichten und regelmäßige Commit-Richtlinien festlegen.
+
+2. Datenbank-Design und -Einrichtung:
+
+a. Entwerfen Sie das Datenbankschema basierend auf den Anforderungen.
+b. PostgreSQL-Datenbank einrichten und initialisieren.
+c. Erste Tests durchführen, um die Datenbankintegrität sicherzustellen.
+
+3. Backend-Entwicklung:
+
+a. Grundlegende API-Endpunkte erstellen (z.B. für die Benutzerregistrierung und -anmeldung).
+b. Token-basierte Authentifizierung implementieren (z.B. mit JWT).
+c. Kernspiellogik (Kartenmanagement, Kampflogik usw.) implementieren.
+d. Handelsfunktionalität hinzufügen.
+e. Einzigartiges Feature entwickeln und integrieren.
+
+4. Testing:
+
+a. Unit Tests für kritische Funktionen erstellen (z.B. Kampflogik, Sicherheit).
+b. Integrationstests mit Curl oder einem benutzerdefinierten Werkzeug durchführen.
+c. Tests regelmäßig wiederholen, insbesondere nach großen Änderungen.
+
+5. Implementierung der optionalen Funktionen:
+
+Je nach Zeit und Ressourcen einige der optionalen Features implementieren.
+
+6. Dokumentation und Protokollierung:
+
+a. Beginnen Sie sofort mit der Dokumentation des Entwicklungsprozesses, der Designentscheidungen und der auftretenden Herausforderungen.
+b. Verfolgen Sie den Zeitverbrauch für verschiedene Abschnitte des Projekts.
+c. Erstellen Sie eine Endbenutzer-Dokumentation oder ein Handbuch, falls erforderlich.
+
+7. Überprüfung und Optimierung:
+
+a. Durchführen von Leistungstests und Überprüfen der Serverantwortzeiten.
+b. Überprüfen Sie den Code auf mögliche Sicherheitsprobleme.
+c. Ggf. Refactoring durchführen und den Code optimieren.
+
+8. Endgültige Vorbereitungen für die Präsentation:
+
+a. Stellen Sie sicher, dass die Anwendung auf Ihrem Computer läuft.
+b. Halten Sie Testskripte bereit und gehen Sie die Roadmap durch, um sicherzustellen, dass alle Anforderungen erfüllt sind.
+c. Bereiten Sie Präsentationsmaterialien wie Diagramme, Slides oder Entwurfsdokumente vor.
+
+9. Präsentation und Abschluss:
+
+a. Präsentieren Sie Ihre Lösung, einschließlich aller Designentscheidungen und Herausforderungen.
+b. Sammeln Sie Feedback und beantworten Sie Fragen.
+c. Nehmen Sie ggf. letzte Änderungen vor und liefern Sie das Projekt ab.

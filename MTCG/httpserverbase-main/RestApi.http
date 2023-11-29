@@ -1,0 +1,13 @@
+GET http://localhost:10001/users
+accept: application/json
+####
+GET http://localhost:10001/users
+accept: application/json
+####
+POST http://localhost:10001/users
+Content-Type: application/json
+
+{
+  "username": "username",
+  "password": "password"
+}
